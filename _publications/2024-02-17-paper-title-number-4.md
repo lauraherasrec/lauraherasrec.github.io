@@ -1,7 +1,6 @@
 ---
 title: "The Rise of the Middle Class and the Pattern of Consumption Imports in Latin America"
 collection: publications
-permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'This paper examines the relationship between the middle class and the pattern of consumption imports in fifteen Latin American economies over the period 1996-2019, which includes the latest commodity boom. The consumption patterns of the middle class, which are likely to be different from those of lower classes, could be reflected in imports in the case of countries with little diversified productive structures, such as those of Latin America. In the context of highly unequal countries, the middle class might also try to emulate the consumption basket of upper income groups. My results show that the middle class has become the main income group driving both aggregate consumption imports and imports disaggregated by product type, including luxury imports. The estimated coefficients are particularly large for the lower-middle class and in the period of the commodity boom, when this income group expanded most rapidly. The finding that the middle class is the main income group driving imports over the period analyzed is robust to different definitions of the middle class, a different way of treating cross-sectional dependence, and a reduced sample excluding Mexico.'
 date: 2024-02-27
 venue: 'CLALS Working Paper Series No. 48'

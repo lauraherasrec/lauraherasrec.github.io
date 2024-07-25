@@ -6,6 +6,7 @@ excerpt: 'This paper examines the relationship between the middle class and the 
 date: 2024-02-27
 venue: 'CLALS Working Paper Series No. 48 (under review in Structural Change and Economic Dynamics)'
 paperurl: 'http://lauraherasrec.github.io/files/middleclassimports_LHR.pdf'
+link: 'http://dx.doi.org/10.2139/ssrn.4741057' 
 citation: 'Heras Recuero, Laura (2024). The Rise of the Middle Class and the Pattern of Consumption Imports in Latin America. CLALS Working Paper Series No. 48. http://dx.doi.org/10.2139/ssrn.4741057'
 ---
 

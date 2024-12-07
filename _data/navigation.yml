@@ -1,11 +1,12 @@
 # main links links
 main:
-  - title: "Research"
-    url: /publications/
     
   - title: "CV"
     url: /files/AcademicCV_HerasRecuero.pdf
-    
+
+#  - title: "Research"
+#   url: /publications/
+
 #  - title: "Talks"
 #    url: /talks/    
 

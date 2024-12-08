@@ -4,8 +4,8 @@ main:
   - title: "CV"
     url: /files/AcademicCV_HerasRecuero.pdf
 
-  - title: "Research"
-    url: /pages/publications.md
+#   - title: "Research"
+#   url: /pages/publications.md
 
 #  - title: "Talks"
 #    url: /talks/    

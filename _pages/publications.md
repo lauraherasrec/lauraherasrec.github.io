@@ -1,9 +1,4 @@
----
-layout: archive
-title: "Publications"
-permalink: /publications/
-author_profile: true
----
+
 
 ## Work in progress
 • Long-term effects of industrial policy on the manufacturing sector in Mexico.

@@ -4,11 +4,11 @@ main:
   - title: "CV"
     url: /files/AcademicCV_HerasRecuero.pdf
 
+  - title: "Research"
+    url: /talks/   
+  
 #   - title: "Research"
-#   url: /pages/publications.md
-
-- title: "Research"
-url: /talks/    
+#   url: /pages/publications.md 
 
 #  - title: "Teaching"
 #    url: /teaching/    

@@ -30,14 +30,3 @@ author_profile: true
 • Osca, A. and L. Heras-Recuero (2024). [Actor-partner effects of coping strategies on emotional exhaustion in dual-earner couples](https://onlinelibrary.wiley.com/doi/full/10.1111/fare.12948). Family Relations, 73(2). 1219-1234. https://doi.org/10.1111/fare.12948
 
 • Heras Recuero, L. and A. Osca Segovia (2021). [Work-family conflict, coping strategies, and burnout: A gender and couple analysis](https://journals.copmadrid.org/jwop/art/jwop2021a5). Journal of Work and Organizational Psychology, 37(1). 21-28. https://doi.org/10.5093/jwop2021a5
-
-
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}

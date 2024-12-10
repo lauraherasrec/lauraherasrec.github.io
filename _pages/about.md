@@ -20,7 +20,7 @@ I am a person with multiple interests and a multidisciplinary educational backgr
 
 • Import substitution industrialization in Mexico: An industry-level database of industrial policy measures.
 
-• Demand shocks, income distribution and import baskets in Latin America (with Vinicius Curti Cícero).
+• Demand shocks, income distribution, and importing behavior: evidence from Brazil (with Vinicius Curti Cícero).
 
 ## Working papers
 • Heras-Recuero, L (2024). [The rise of the middle class and the pattern of consumption imports in Latin America](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4741057). CLALS Working Paper Series No. 48. 

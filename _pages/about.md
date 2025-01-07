@@ -9,7 +9,7 @@ redirect_from:
 
 Welcome to my website!
 
-I am a fifth year PhD candidate in Economics at American University, writing my dissertation on economic development in Latin America. My research interests are in development macroeconomics, applied macroeconomics, productive development, trade, inequality and Latin American economies.
+I am a fifth year PhD candidate in Economics at American University, writing my dissertation on economic development in middle-income countries. My research interests are in development macroeconomics, applied macroeconomics, productive development, trade, and inequality.
 
 I have professional experience in economic research and analysis in international organizations (IDB, OECD), central banking (Banco de España), and higher education institutions (AU, EHESS, UAM).
 

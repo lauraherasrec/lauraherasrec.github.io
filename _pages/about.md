@@ -20,7 +20,7 @@ I am a person with multiple interests and a multidisciplinary educational backgr
 
 • Balza, Lenin H., Heras-Recuero, L., Matías, D. and R. A. Yépez-García (2024). [Green or growth? Understanding the relationship between economic growth and CO2 emissions](https://publications.iadb.org/en/green-or-growth-understanding-relationship-between-economic-growth-and-co2-emissions). Technical Note No. IDB-TN-2930. _Submitted_
 
-• The consumption side of trade shocks: Inequality dynamics and luxury imports (with Vinicius Curti Cícero). _Submitted_
+• [The consumption side of trade shocks: Inequality dynamics and luxury imports](https://osf.io/preprints/socarxiv/9kh2g_v1) (with Vinicius Curti Cícero). _Submitted_
 
 ## Work in progress
 • Long-term effects of industrial policy on the manufacturing sector in Mexico.

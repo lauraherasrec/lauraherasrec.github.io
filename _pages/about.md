@@ -18,9 +18,9 @@ I am a person with a wide range of interests and a multidisciplinary educational
 ## Working papers
 • Heras-Recuero, L (2024). [The rise of the middle class and the pattern of consumption imports in Latin America](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4741057). CLALS Working Paper Series No. 48. _R&R in Structural Change and Economic Dynamics_
 
-• Balza, Lenin H., Heras-Recuero, L., Matías, D. and R. A. Yépez-García (2024). [Green or growth? Understanding the relationship between economic growth and CO2 emissions](https://publications.iadb.org/en/green-or-growth-understanding-relationship-between-economic-growth-and-co2-emissions). Technical Note No. IDB-TN-2930. _Submitted_
-
 • [The consumption side of trade shocks: Inequality dynamics and luxury imports](https://osf.io/preprints/socarxiv/9kh2g_v1) (with Vinicius Curti Cícero). _Under Review_
+
+• Balza, Lenin H., Heras-Recuero, L., Matías, D. and R. A. Yépez-García (2024). [Green or growth? Understanding the relationship between economic growth and CO2 emissions](https://publications.iadb.org/en/green-or-growth-understanding-relationship-between-economic-growth-and-co2-emissions). Technical Note No. IDB-TN-2930. _Submitted_
 
 ## Work in progress
 • Long-term effects of industrial policy on the manufacturing sector in Mexico.

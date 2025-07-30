@@ -16,14 +16,14 @@ I have professional experience in economic research and analysis in internationa
 I am a person with a wide range of interests and a multidisciplinary educational background in economics, development studies, and psychology. I hold a MA in Economic Policy and Analysis from Université Paris 13 Nord and Université Paris VII Diderot, a MA in Development Studies from the University of the Basque Country, a BA in Economics from Autonomous University of Madrid, and a BA in Psychology from the National University of Distance Education. You can find my CV [here](https://lauraherasrec.github.io/files/AcademicCV_HerasRecuero.pdf). 
 
 ## Working papers
-• Heras-Recuero, L (2024). [The rise of the middle class and the pattern of consumption imports in Latin America](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4741057). CLALS Working Paper Series No. 48. _R&R in Structural Change and Economic Dynamics_
+• Heras-Recuero, L. (2024). [The rise of the middle class and the pattern of consumption imports in Latin America](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4741057). CLALS Working Paper Series No. 48. _R&R in Structural Change and Economic Dynamics_
 
 • [The consumption side of trade shocks: Inequality dynamics and luxury imports](https://osf.io/preprints/socarxiv/9kh2g_v1) (with Vinicius Curti Cícero). _Under Review_
 
 • Balza, Lenin H., Heras-Recuero, L., Matías, D. and R. A. Yépez-García (2024). [Green or growth? Understanding the relationship between economic growth and CO2 emissions](https://publications.iadb.org/en/green-or-growth-understanding-relationship-between-economic-growth-and-co2-emissions). Technical Note No. IDB-TN-2930. _Submitted_
 
 ## Work in progress
-• Long-term effects of industrial policy on the manufacturing sector in Mexico.
+• Economic liberalization, industrial policy and manufacturing performance in Mexico.
 
 • Import substitution industrialization in Mexico: An industry-level database of industrial policy measures.
 

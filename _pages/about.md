@@ -22,7 +22,7 @@ I am a person with a wide range of interests and a multidisciplinary educational
 
 ## Publications and Accepted
 • The rise of the middle class and the pattern of consumption imports in Latin America. Forthcoming at _Structural Change and Economic Dynamics_ <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4741057" style="padding: 10px 20px; background-color: #007BFF; color: white; text-decoration: none; border-radius: 5px;">
-  Ir a mi sitio
+  WP version
 </a>
 
 ## Works in progress

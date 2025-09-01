@@ -16,7 +16,7 @@ I have professional experience in economic research and analysis in internationa
 I am a person with a wide range of interests and a multidisciplinary educational background in economics, development studies, and psychology. I hold a MA in Economic Policy and Analysis from Université Paris 13 Nord and Université Paris VII Diderot, a MA in Development Studies from the University of the Basque Country, a BA in Economics from Autonomous University of Madrid, and a BA in Psychology from the National University of Distance Education. You can find my CV [here](https://lauraherasrec.github.io/files/CV_LauraHerasRecuero_simplified.pdf). 
 
 ## Working papers
-• [The consumption side of trade shocks: Inequality dynamics and luxury imports](https://osf.io/preprints/socarxiv/9kh2g_v1) (with Vinicius Curti Cícero). Revision requested in _Journal of Development Economics_
+• [The consumption side of trade shocks: Inequality dynamics and luxury imports](https://osf.io/preprints/socarxiv/9kh2g_v1) (with [Vinicius Curti Cícero](https://vcicero.github.io/)). Revision requested in _Journal of Development Economics_
 
 • [Green or growth? Understanding the relationship between economic growth and CO2 emissions](https://publications.iadb.org/en/green-or-growth-understanding-relationship-between-economic-growth-and-co2-emissions) (with Lenin H. Balza, David Matias and Ariel Yépez-García). _Submitted_ 
 
@@ -28,7 +28,7 @@ I am a person with a wide range of interests and a multidisciplinary educational
 
 • Import substitution industrialization in Mexico: An industry-level database of industrial policy measures.
 
-• Energy transformation and local economic development: Evidence from renewable energy investments (with Lenin H. Balza and José Belmar).
+• Energy transformation and local economic development: Evidence from renewable energy investments (with Lenin H. Balza and [José Belmar](https://www.josebelmar.com/)).
 
 ## Pre-doctoral publications
 • Heras Recuero, L. and R. Pascual González (2019). [Economic growth, institutional quality, and financial development in middle-income countries](https://www.bde.es/f/webbde/SES/Secciones/Publicaciones/PublicacionesSeriadas/DocumentosTrabajo/19/Fich/dt1937e.pdf). Working Papers No. 1937, Banco de España.

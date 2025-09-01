@@ -21,7 +21,7 @@ I am a person with a wide range of interests and a multidisciplinary educational
 • [Green or growth? Understanding the relationship between economic growth and CO2 emissions](https://publications.iadb.org/en/green-or-growth-understanding-relationship-between-economic-growth-and-co2-emissions) (with Lenin H. Balza, David Matias and Ariel Yépez-García). _Submitted_ 
 
 ## Publications and Accepted
-• The rise of the middle class and the pattern of consumption imports in Latin America. Forthcoming at _Structural Change and Economic Dynamics_
+• The rise of the middle class and the pattern of consumption imports in Latin America. Forthcoming at _Structural Change and Economic Dynamics_ 
 
 ## Works in progress
 • Economic liberalization, industrial policy and manufacturing performance in Mexico.

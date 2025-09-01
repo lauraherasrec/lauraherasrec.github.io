@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Laura Heras-Recuero"
 author_profile: true
 redirect_from: 
   - /about/

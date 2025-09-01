@@ -16,14 +16,12 @@ I have professional experience in economic research and analysis in internationa
 I am a person with a wide range of interests and a multidisciplinary educational background in economics, development studies, and psychology. I hold a MA in Economic Policy and Analysis from Université Paris 13 Nord and Université Paris VII Diderot, a MA in Development Studies from the University of the Basque Country, a BA in Economics from Autonomous University of Madrid, and a BA in Psychology from the National University of Distance Education. You can find my CV [here](https://lauraherasrec.github.io/files/CV_LauraHerasRecuero_simplified.pdf). 
 
 ## Working papers
-• [The consumption side of trade shocks: Inequality dynamics and luxury imports](https://osf.io/preprints/socarxiv/9kh2g_v1) (with Vinicius Curti Cícero). _Revision requested in Journal of Development Economics_
+• [The consumption side of trade shocks: Inequality dynamics and luxury imports](https://osf.io/preprints/socarxiv/9kh2g_v1) (with Vinicius Curti Cícero). Revision requested in _Journal of Development Economics_
 
 • Balza, Lenin H., Heras-Recuero, L., Matías, D. and R. A. Yépez-García (2024). [Green or growth? Understanding the relationship between economic growth and CO2 emissions](https://publications.iadb.org/en/green-or-growth-understanding-relationship-between-economic-growth-and-co2-emissions). Technical Note No. IDB-TN-2930. _Submitted_
 
 ## Publications and Accepted
-• The rise of the middle class and the pattern of consumption imports in Latin America. Forthcoming at _Structural Change and Economic Dynamics_ <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4741057" style="padding: 10px 20px; background-color: #007BFF; color: white; text-decoration: none; border-radius: 5px;">
-  WP version
-</a>
+• The rise of the middle class and the pattern of consumption imports in Latin America. Forthcoming at _Structural Change and Economic Dynamics_
 
 ## Works in progress
 • Economic liberalization, industrial policy and manufacturing performance in Mexico.

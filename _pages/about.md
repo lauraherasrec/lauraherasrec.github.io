@@ -21,7 +21,9 @@ I am a person with a wide range of interests and a multidisciplinary educational
 • Balza, Lenin H., Heras-Recuero, L., Matías, D. and R. A. Yépez-García (2024). [Green or growth? Understanding the relationship between economic growth and CO2 emissions](https://publications.iadb.org/en/green-or-growth-understanding-relationship-between-economic-growth-and-co2-emissions). Technical Note No. IDB-TN-2930. _Submitted_
 
 ## Publications and Accepted
-• The rise of the middle class and the pattern of consumption imports in Latin America. Forthcoming at _Structural Change and Economic Dynamics_ <a href="[https://tusitio.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4741057)" class="boton">Ir a mi sitio</a>
+• The rise of the middle class and the pattern of consumption imports in Latin America. Forthcoming at _Structural Change and Economic Dynamics_ <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4741057" style="padding: 10px 20px; background-color: #007BFF; color: white; text-decoration: none; border-radius: 5px;">
+  Ir a mi sitio
+</a>
 
 ## Works in progress
 • Economic liberalization, industrial policy and manufacturing performance in Mexico.

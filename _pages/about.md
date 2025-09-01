@@ -18,7 +18,7 @@ I am a person with a wide range of interests and a multidisciplinary educational
 ## Working papers
 • [The consumption side of trade shocks: Inequality dynamics and luxury imports](https://osf.io/preprints/socarxiv/9kh2g_v1) (with Vinicius Curti Cícero). Revision requested in _Journal of Development Economics_
 
-• Balza, Lenin H., Heras-Recuero, L., Matías, D. and R. A. Yépez-García (2024). [Green or growth? Understanding the relationship between economic growth and CO2 emissions](https://publications.iadb.org/en/green-or-growth-understanding-relationship-between-economic-growth-and-co2-emissions). Technical Note No. IDB-TN-2930. _Submitted_
+• [Green or growth? Understanding the relationship between economic growth and CO2 emissions](https://publications.iadb.org/en/green-or-growth-understanding-relationship-between-economic-growth-and-co2-emissions) (with Lenin H. Balza, David Matias and Ariel Yépez-García). _Submitted_ 
 
 ## Publications and Accepted
 • The rise of the middle class and the pattern of consumption imports in Latin America. Forthcoming at _Structural Change and Economic Dynamics_

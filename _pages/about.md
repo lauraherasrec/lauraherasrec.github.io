@@ -1,4 +1,4 @@
----
+x---
 permalink: /
 title: ""
 author_profile: true
@@ -9,11 +9,13 @@ redirect_from:
 
 Welcome to my website!
 
-I am a PhD candidate in Economics at [American University](https://www.american.edu/cas/economics/), writing my dissertation on economic development in Latin America, and an economist at the Inter-American Development Bank. My research interests are in development macroeconomics, applied macroeconomics, energy, productive development, trade and inequality. 
+I am a PhD candidate in Economics at [American University](https://www.american.edu/cas/economics/), writing my dissertation on economic development in Latin America, and an economist at the Inter-American Development Bank. My research explores various topics related to development challenges in Latin America and the Caribbean. More specifically, I focus on issues related to trade, inequality, energy, and productive development.
 
 I have professional experience in economic research and analysis in international organizations (The World Bank, IDB, OECD), central banking (Banco de España), and higher education institutions (AU, EHESS, UAM).
 
-I am a person with a wide range of interests and a multidisciplinary educational background in economics, development studies, and psychology. I hold a MA in Economics from Université Paris VII Diderot, a MA in Development Studies from the [University of the Basque Country](https://www.hegoa.ehu.eus/), a BA in Economics from [Autonomous University of Madrid](https://www.uam.es/economicas/inicio), and a BA in Psychology from the [National University of Distance Education](https://www.uned.es/universidad/facultades/psicologia.html). You can find my CV [here](https://lauraherasrec.github.io/files/CV_LauraHerasRecuero_simplified.pdf). 
+I am a person with a wide range of interests and a multidisciplinary educational background in economics, development studies, and psychology. I hold a MA in Economics from Université Paris VII Diderot, a MA in Development Studies from the [University of the Basque Country](https://www.hegoa.ehu.eus/), a BA in Economics from [Autonomous University of Madrid](https://www.uam.es/economicas/inicio), and a BA in Psychology from the [National University of Distance Education](https://www.uned.es/universidad/facultades/psicologia.html). 
+
+You can find my CV [here](https://lauraherasrec.github.io/files/CV_LauraHerasRecuero_simplified.pdf). 
 
 ## Working papers
 • [The consumption side of trade shocks: Inequality dynamics and luxury imports](https://osf.io/preprints/socarxiv/9kh2g_v1) (with [Vinicius Curti Cícero](https://vcicero.github.io/)). Revision requested in _Journal of Development Economics_

@@ -7,8 +7,8 @@ main:
 #   - title: "Research"
 #   url: /talks/   
   
-#   - title: "Research"
-#   url: /pages/publications.md 
+- title: "Research"
+url: /pages/publications.md 
 
 #  - title: "Teaching"
 #    url: /teaching/    

@@ -23,7 +23,7 @@ You can find my CV [here](https://lauraherasrec.github.io/files/CV_LauraHerasRec
 • [Green or growth? Understanding the relationship between economic growth and CO2 emissions](https://publications.iadb.org/en/green-or-growth-understanding-relationship-between-economic-growth-and-co2-emissions) (with Lenin H. Balza, David Matias and Ariel Yépez-García). _Submitted_
 
 ## Publications and Accepted
-• The rise of the middle class and the pattern of consumption imports in Latin America. Forthcoming at _Structural Change and Economic Dynamics_ <u><a href="http://https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4741057">WP version</a>.</u>
+• The rise of the middle class and the pattern of consumption imports in Latin America. Forthcoming at _Structural Change and Economic Dynamics_ <form action="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4741057/" method="get" target="_blank"><button type="submit">Click me</button></form>
 
 ## Works in progress
 • Economic liberalization, industrial policy and manufacturing performance in Mexico.

@@ -42,6 +42,6 @@ You can find my CV [here](https://lauraherasrec.github.io/files/CV_LauraHerasRec
 • Heras-Recuero, L., L'Hotellerie-Fallois, P. and S. Párraga Rodríguez (2019). [La economía de EEUU, diez años después de la crisis](https://dialnet.unirioja.es/servlet/articulo?codigo=7071539). Boletín Económico del ICE, No. 3110. Secretaría de Estado de Comercio, Ministerio de Industria, Comercio y Turismo, Madrid.
 
 ## Other publications
-• Osca, A. and L. Heras-Recuero (2024). [Actor-partner effects of coping strategies on emotional exhaustion in dual-earner couples](https://onlinelibrary.wiley.com/doi/full/10.1111/fare.12948). Family Relations, 73(2). 1219-1234. https://doi.org/10.1111/fare.12948
+• Osca, A. and L. Heras-Recuero (2024). [Actor-partner effects of coping strategies on emotional exhaustion in dual-earner couples](https://onlinelibrary.wiley.com/doi/full/10.1111/fare.12948). Family Relations, 73(2). 1219-1234. 
 
-• Heras Recuero, L. and A. Osca Segovia (2021). [Work-family conflict, coping strategies, and burnout: A gender and couple analysis](https://journals.copmadrid.org/jwop/art/jwop2021a5). Journal of Work and Organizational Psychology, 37(1). 21-28. https://doi.org/10.5093/jwop2021a5
+• Heras Recuero, L. and A. Osca Segovia (2021). [Work-family conflict, coping strategies, and burnout: A gender and couple analysis](https://journals.copmadrid.org/jwop/art/jwop2021a5). Journal of Work and Organizational Psychology, 37(1). 21-28. 

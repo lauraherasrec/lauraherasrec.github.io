@@ -17,12 +17,11 @@ I am a person with a wide range of interests and a multidisciplinary educational
 
 You can find my CV [here](https://lauraherasrec.github.io/files/CV_LauraHerasRecuero_simplified.pdf). 
 
-## Working papers
-• [The consumption side of trade shocks: Inequality dynamics and luxury imports](https://osf.io/preprints/socarxiv/9kh2g_v1) (with [Vinicius Curti Cícero](https://vcicero.github.io/)). Revision requested in _Journal of Development Economics_
-
-• [Green or growth? Understanding the relationship between economic growth and CO2 emissions](https://publications.iadb.org/en/green-or-growth-understanding-relationship-between-economic-growth-and-co2-emissions) (with Lenin H. Balza, David Matias and Ariel Yépez-García). _Submitted_
-
 ## Publications and Accepted
+• The consumption side of trade shocks: Inequality dynamics and luxury imports (with [Vinicius Curti Cícero](https://vcicero.github.io/)). Accepted at _Journal of Development Economics_
+
+• Green or growth? Understanding the relationship between economic growth and CO2 emissions (with Lenin H. Balza, David Matias and Ariel Yépez-García). Accepted at _International Journal of Energy Economics and Policy_
+
 • [The rise of the middle class and the pattern of consumption imports in Latin America](https://doi.org/10.1016/j.strueco.2025.08.016). _Structural Change and Economic Dynamics_ 75 (2025), 464-485.
 
 ## Works in progress

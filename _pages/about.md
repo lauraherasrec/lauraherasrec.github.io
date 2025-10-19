@@ -18,7 +18,7 @@ I am a person with a wide range of interests and a multidisciplinary educational
 You can find my CV [here](https://lauraherasrec.github.io/files/CV_LauraHerasRecuero_simplified.pdf). 
 
 ## Publications and Accepted
-• The consumption side of trade shocks: Inequality dynamics and luxury imports (with [Vinicius Curti Cícero](https://vcicero.github.io/)). Accepted at _Journal of Development Economics_
+• [The consumption side of trade shocks: Inequality dynamics and luxury imports](https://doi.org/10.1016/j.jdeveco.2025.103663) (with [Vinicius Curti Cícero](https://vcicero.github.io/)). Forthcoming at _Journal of Development Economics_
 
 • Green or growth? Understanding the relationship between economic growth and CO2 emissions (with Lenin H. Balza, David Matias and Ariel Yépez-García). Accepted at _International Journal of Energy Economics and Policy_
 

@@ -18,7 +18,7 @@ I am a person with a wide range of interests and a multidisciplinary educational
 You can find my CV [here](https://lauraherasrec.github.io/files/CV_LauraHerasRecuero_simplified.pdf). 
 
 ## Publications and Accepted
-• [The consumption side of trade shocks: Inequality dynamics and luxury imports]([https://doi.org/10.1016/j.jdeveco.2025.103663) (with [Vinicius Curti Cícero](https://vcicero.github.io/)). _Journal of Development Economics_ 179 (2026).
+• [The consumption side of trade shocks: Inequality dynamics and luxury imports](https://doi.org/10.1016/j.jdeveco.2025.103663) (with [Vinicius Curti Cícero](https://vcicero.github.io/)). _Journal of Development Economics_ 179 (2026).
 
 • [The rise of the middle class and the pattern of consumption imports in Latin America](https://doi.org/10.1016/j.strueco.2025.08.016). _Structural Change and Economic Dynamics_ 75 (2025), 464-485.
 

@@ -35,7 +35,7 @@ Mexico is often presented as a successful case of liberalization, as the country
 
 • Import substitution industrialization in Mexico: An industry-level database of industrial policy measures.
 
-• Energy transformation and local economic development: Evidence from renewable energy investments (with Lenin H. Balza and [José Belmar](https://www.josebelmar.com/)).
+• Energy transformation and local economic development: Evidence from renewable energy investments in Colombia (with Lenin H. Balza and [José Belmar](https://www.josebelmar.com/)).
 
 ## Pre-doctoral publications
 • Heras Recuero, L. and R. Pascual González (2019). [Economic growth, institutional quality, and financial development in middle-income countries](https://www.bde.es/f/webbde/SES/Secciones/Publicaciones/PublicacionesSeriadas/DocumentosTrabajo/19/Fich/dt1937e.pdf). Working Papers No. 1937, Banco de España.

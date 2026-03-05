@@ -9,7 +9,7 @@ redirect_from:
 
 Welcome to my website!
 
-I am an economist at the Inter-American Development Bank. I received my Ph.D. in Economics from American University. 
+I am an economist at the Inter-American Development Bank. I received my Ph.D. in Economics from American University.
 
 My research explores various topics related to development challenges in Latin America and the Caribbean. More specifically, I focus on issues related to trade, inequality, energy, and productive development.
 

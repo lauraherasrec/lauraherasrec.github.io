@@ -30,6 +30,12 @@ We study how a large, exogenous trade shock — triggered by China’s accession
 
 This paper examines the relationship between the middle class and the pattern of consumption imports in fifteen Latin American economies over the period 1996–2019, which includes the latest commodity boom. The consumption patterns of the middle class, which are likely to be different from those of lower classes, could be reflected in the imports in the case of countries with little diversified productive structures, such as those of Latin America. In the context of highly unequal countries, the middle class may not only consume according to its own preferences, but may also be driven by emulation and status motives. My results show that the middle class has become the main income group driving both aggregate consumption imports and imports disaggregated by product type, including luxury imports. The estimated coefficients are particularly large for the lower-middle class and during the period of the commodity boom, when this income group expanded most rapidly. This finding points to a significant role of the middle class as a determinant of consumption imports and their composition, with implications for the region’s fragile balance of payments dynamics.
 
+## Working papers
+
+• Balza, L., Heras-Recuero, L., Matías, D., & Yépez-García, A. (2024). [Green or growth? Understanding the relationship between economic growth and CO2 emissions](https://publications.iadb.org/en/green-or-growth-understanding-relationship-between-economic-growth-and-co2-emissions). Technical Note No. 2930. IDB Publications. _(Submitted)_
+
+The relationship between economic growth and environmental impact is a topic that has largely been studied through the framework of the Environmental Kuznets Curve (EKC), which posits an inverted U-shape relationship between the two. We examine this link by analyzing GDP and CO2 emissions per capita from 1970 to 2020 using a panel of 136 countries. We estimate both the short- and long-run income elasticities of CO2 emissions across various regions and for rolling time periods. The analysis focuses on Latin America and the Caribbean, aggregating and disaggregating data by region and introducing alternative measures of CO2 emissions. Though our findings confirm the existence of the EKC at the global level, we do not find evidence of it for all regions. A monotonic positive relationship between income and emissions is observed for Latin America and the Caribbean. We also find that, in most cases, the income elasticity of production-based emissions is lower than that of consumption-based emissions. This distinction is particularly pronounced in the Latin American and Caribbean region, where the income elasticity of consumption-based emissions is estimated at 0.95, as opposed to 0.56 when using a production-based measure.
+
 ## Works in progress
 • Economic liberalization, industrial policy and manufacturing performance in Mexico.
 
@@ -39,7 +45,7 @@ Mexico is often presented as a successful case of liberalization, as the country
 
 • Energy transformation and local economic development: Evidence from renewable energy investments in Colombia (with Lenin H. Balza and [José Belmar](https://www.josebelmar.com/)).
 
-## Pre-doctoral publications
+## Pre-doctoral works
 • Heras Recuero, L. and R. Pascual González (2019). [Economic growth, institutional quality, and financial development in middle-income countries](https://www.bde.es/f/webbde/SES/Secciones/Publicaciones/PublicacionesSeriadas/DocumentosTrabajo/19/Fich/dt1937e.pdf). Working Papers No. 1937, Banco de España.
 
 • Sastre, T. and L. Heras Recuero (2019). [Domestic and foreign investment in advanced economies. The role of industry integration](https://www.bde.es/f/webbde/SES/Secciones/Publicaciones/PublicacionesSeriadas/DocumentosTrabajo/19/Fich/dt1933e.pdf). Working Papers No. 1933, Banco de España.

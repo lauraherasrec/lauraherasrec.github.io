@@ -17,7 +17,7 @@ I have professional experience in economic research and analysis in internationa
 
 I am a person with a wide range of interests and a multidisciplinary educational background in economics, development studies, and psychology. I hold a MA in Economics from Université Paris VII Diderot, a MA in Development Studies from the [University of the Basque Country](https://www.hegoa.ehu.eus/), a BA in Economics from [Autonomous University of Madrid](https://www.uam.es/economicas/inicio), and a BA in Psychology from the [National University of Distance Education](https://www.uned.es/universidad/facultades/psicologia.html). 
 
-You can find my CV [here](https://lauraherasrec.github.io/files/CV_LauraHerasRecuero_simplified.pdf). 
+You can find my CV [here](https://lauraherasrec.github.io/files/CV_HerasRecuero.pdf). 
 
 ## Publications
 • [The consumption side of trade shocks: Inequality dynamics and luxury imports](https://doi.org/10.1016/j.jdeveco.2025.103663) (with [Vinicius Curti Cícero](https://vcicero.github.io/)). _Journal of Development Economics_ 179 (2026).

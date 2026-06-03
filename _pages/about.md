@@ -9,9 +9,9 @@ redirect_from:
 
 Welcome to my website!
 
-I am an economist at the Inter-American Development Bank. I received my Ph.D. in Economics from American University.
+I am a development economist at the Inter-American Development Bank. I received my Ph.D. in Economics from American University.
 
-My research explores various topics related to development challenges in Latin America and the Caribbean. More specifically, I focus on issues related to trade, inequality, energy, and productive development.
+My research studies how inequality, trade, energy transitions, and productive structures shape development in Latin America and the Caribbean.
 
 I have professional experience in economic research and analysis in international organizations (The World Bank, OECD), central banking (Banco de España), and higher education institutions (AU, EHESS, UAM).
 

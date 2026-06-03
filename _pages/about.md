@@ -30,7 +30,7 @@ We study how a large, exogenous trade shock — triggered by China’s accession
 [Paper](https://doi.org/10.1016/j.jdeveco.2025.103663) · [VoxDev column](https://voxdev.org/topic/trade/how-chinas-demand-boom-reshaped-inequality-and-consumption-brazil)
 
 ### The rise of the middle class and the pattern of consumption imports in Latin America  
-**Structural Change and Economic Dynamics**, 75, 2025.
+**Structural Change and Economic Dynamics**, 75, 464-485, 2025.
 
 This paper examines the relationship between the middle class and the pattern of consumption imports in fifteen Latin American economies over the period 1996–2019, which includes the latest commodity boom. The consumption patterns of the middle class, which are likely to be different from those of lower classes, could be reflected in the imports in the case of countries with little diversified productive structures, such as those of Latin America. In the context of highly unequal countries, the middle class may not only consume according to its own preferences, but may also be driven by emulation and status motives. My results show that the middle class has become the main income group driving both aggregate consumption imports and imports disaggregated by product type, including luxury imports. The estimated coefficients are particularly large for the lower-middle class and during the period of the commodity boom, when this income group expanded most rapidly. This finding points to a significant role of the middle class as a determinant of consumption imports and their composition, with implications for the region’s fragile balance of payments dynamics.
 

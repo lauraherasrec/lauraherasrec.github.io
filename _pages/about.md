@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website!
-
 I am a development economist at the Inter-American Development Bank. I received my Ph.D. in Economics from American University.
 
 My research studies how inequality, trade, energy transitions, and productive structures shape development in Latin America and the Caribbean.

@@ -39,7 +39,7 @@ This paper examines the relationship between the middle class and the pattern of
 
 </details>
 
-[Paper](https://doi.org/10.1016/j.strueco.2025.08.016)
+<a class="paper-btn" href="https://doi.org/10.1016/j.strueco.2025.08.016">Paper</a>
 
 ## Selected works in progress
 ### Economic liberalization, industrial policy and manufacturing performance in Mexico.

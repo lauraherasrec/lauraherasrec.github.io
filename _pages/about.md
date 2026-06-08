@@ -19,15 +19,15 @@ You can find my CV [here](https://lauraherasrec.github.io/files/CV_HerasRecuero.
 _with [Vinicius Curti Cícero](https://vcicero.github.io/)_
 **Journal of Development Economics**, 179, 2026.
 
-[Paper](https://doi.org/10.1016/j.jdeveco.2025.103663) ·
-[VoxDev column](https://voxdev.org/topic/trade/how-chinas-demand-boom-reshaped-inequality-and-consumption-brazil)
-
 <details>
 <summary><strong>Abstract</strong></summary>
 
-We study how a large, exogenous trade shock — triggered by China’s accession to the WTO in 2001 — reshaped income, inequality, and import behavior across Brazilian regions. Using a shift-share instrument based on pre-shock export structures, we show that regions more exposed to China’s demand boom experienced faster growth in per capita income and larger increases in within-region inequality relative to less exposed areas. These changes, in turn, led to rising import values and shifts in composition, especially toward consumption and medium- to high-tech manufactured goods...
+We study how a large, exogenous trade shock — triggered by China’s accession to the WTO in 2001 — reshaped income, inequality, and import behavior across Brazilian regions. Using a shift-share instrument based on pre-shock export structures, we show that regions more exposed to China’s demand boom experienced faster growth in per capita income and larger increases in within-region inequality relative to less exposed areas. These changes, in turn, led to rising import values and shifts in composition, especially toward consumption and medium- to high-tech manufactured goods. To analyze these shifts, we classify goods by necessity and luxury status using Brazilian household data and introduce a complementary classification based on the spending patterns of high-income households in the United States. Luxury imports rose most in regions that were initially more unequal or experienced sharper post-shock inequality growth, consistent with non-homothetic preferences and broader theories of stratified consumption. Our findings highlight inequality as a key channel through which trade shocks shape regional import demand in developing economies.
 
 </details>
+
+[Paper](https://doi.org/10.1016/j.jdeveco.2025.103663) ·
+[VoxDev column](https://voxdev.org/topic/trade/how-chinas-demand-boom-reshaped-inequality-and-consumption-brazil)
 
 [Paper](https://doi.org/10.1016/j.jdeveco.2025.103663) · [VoxDev column](https://voxdev.org/topic/trade/how-chinas-demand-boom-reshaped-inequality-and-consumption-brazil)
 

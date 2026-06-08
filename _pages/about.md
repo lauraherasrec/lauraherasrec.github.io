@@ -26,7 +26,8 @@ We study how a large, exogenous trade shock — triggered by China’s accession
 
 </details>
 
-[Paper](https://doi.org/10.1016/j.jdeveco.2025.103663) · [VoxDev column](https://voxdev.org/topic/trade/how-chinas-demand-boom-reshaped-inequality-and-consumption-brazil)
+<a class="paper-btn" href="https://doi.org/10.1016/j.jdeveco.2025.103663">Paper</a> 
+[VoxDev column](https://voxdev.org/topic/trade/how-chinas-demand-boom-reshaped-inequality-and-consumption-brazil)
 
 ### The rise of the middle class and the pattern of consumption imports in Latin America  
 **Structural Change and Economic Dynamics**, 75, 464-485, 2025.

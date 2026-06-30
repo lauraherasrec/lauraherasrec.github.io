@@ -59,7 +59,7 @@ Import substitution industrialization in Mexico: An industry-level database of i
 Energy transformation and local economic development: Evidence from renewable energy investments in Colombia 
 _with Lenin H. Balza and [José Belmar](https://www.josebelmar.com/)_
 
-Inequality, the demonstration effect, and the income elasticity of imports: a Structuralist account
+Inequality, the demonstration effect, and the income elasticity of imports: a Structuralist account of the external constraint
 _with [Vinicius Curti Cícero](https://vcicero.github.io/)_  
 
 

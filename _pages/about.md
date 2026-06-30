@@ -59,7 +59,7 @@ Import substitution industrialization in Mexico: An industry-level database of i
 Energy transformation and local economic development: Evidence from renewable energy investments in Colombia 
 _with Lenin H. Balza and [José Belmar](https://www.josebelmar.com/)_
 
-When commodity booms tighten external constraints: Distribution, demonstration effects, and import demand in Brazil
+Inequality, the demonstration effect, and the income elasticity of imports: a Structuralist account
 _with [Vinicius Curti Cícero](https://vcicero.github.io/)_  
 
 

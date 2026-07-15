@@ -64,5 +64,10 @@ _with [Vinicius Curti Cícero](https://vcicero.github.io/)_
 
 <a class="paper-btn" href="https://madeusp.com.br/publicacoes/artigos/inequality-the-demonstration-effect-and-the-income-elasticity-of-imports-a-structuralist-account-of-the-external-constraint/">Working Paper</a>
 
+<details class="paper-abstract">
+<summary>Abstract</summary>
 
+This paper develops a structuralist account of how the distribution of income shapes the composition of consumer imports in a developing economy, and through it the income elasticity of import demand that bears on the external constraint on growth in the Kaldor-Thirlwall tradition. When income concentrates in the upper part of the distribution, consumption rotates toward luxuries — goods disproportionately imported — raising the income elasticity of the consumer-import basket. We provide a micro-foundation for this dependence, building on the consumption decisions of regional class structures and the long-standing structuralist hypothesis of the demonstration effect. We test the framework using the China-driven commodity boom in Brazil, whose regional incidence was set by predetermined export structures and concentrated income gains in the upper part of the distribution. More exposed regions raised their share of national consumer imports and, on that larger base, rotated their baskets toward imported luxuries, with the basket-implied elasticity rising where inequality rose most. The response held under both a domestic luxury classification and one anchored to advanced-economy consumption, the latter providing suggestive evidence that the demonstration effect operates in a large developing economy. The two margins compound: the regions that came to weigh more in the national basket also carried the higher elasticity, raising the national consumer-import elasticity over the boom and leaving it above its pre-boom level. The result is a distribution-driven rise in the income elasticity of consumer imports, potentially reducing the long-run growth rate allowed by the balance-of-payments constraint.
+
+</details>
 

@@ -60,7 +60,7 @@ Energy transformation and local economic development: Evidence from renewable en
 _with Lenin H. Balza and [José Belmar](https://www.josebelmar.com/)_
 
 Inequality, the demonstration effect, and the income elasticity of imports: a Structuralist account of the external constraint
-_with [Vinicius Curti Cícero](https://vcicero.github.io/)_  
+_with [Vinicius Curti Cícero](https://vcicero.github.io/)_ _Submitted_ 
 
 <a class="paper-btn" href="https://madeusp.com.br/publicacoes/artigos/inequality-the-demonstration-effect-and-the-income-elasticity-of-imports-a-structuralist-account-of-the-external-constraint/">Working Paper</a>
 

@@ -41,10 +41,8 @@ This paper examines the relationship between the middle class and the pattern of
 
 </details>
 
+## Working papers
 
-
-
-## Selected works in progress
 Economic liberalization, industrial policy and manufacturing performance in Mexico.
 
 <details class="paper-abstract">
@@ -53,11 +51,6 @@ Economic liberalization, industrial policy and manufacturing performance in Mexi
 Mexico is often presented as a successful case of liberalization, as the country managed to sustain a significant manufacturing base after its opening in the mid-1980s. This paper introduces a new dimension to the analysis of its manufacturing performance by assessing the role of industrial policy implemented during the pre-liberalization period, known as the import substitution industrialization (ISI) era, in shaping post-liberalization labor productivity. This paper makes two main contributions. First, it constructs industry-level measures of industrial policy, including import licenses, tax subsidies and public credit support, based on primary sources, mainly historical government documents, and develops a harmonized industry classification using data from the Censos Económicos spanning 1970 to 2019. Second, leveraging the vertical and temporal nature of ISI-era industrial policies, it examines their long-term effects in a quasi-experimental setting. The analysis shows that the gains from liberalization were larger in industries that had been more intensively promoted through fiscal subsidies and public credit during the ISI period, while no differential effects are found for industries protected through import licenses. Evidence on employment and investment suggests that these productivity gains reflect a combination of firm selection and capacity building. Overall, this paper provides new evidence on the long-term effects of industrial policy and contributes to the still limited empirical literature on ISI in Latin America.
 
 </details>
-
-Import substitution industrialization in Mexico: An industry-level database of industrial policy measures.
-
-Energy transformation and local economic development: Evidence from renewable energy investments in Colombia 
-_with Lenin H. Balza and [José Belmar](https://www.josebelmar.com/)_
 
 Inequality, the demonstration effect, and the income elasticity of imports: a Structuralist account of the external constraint
 _with [Vinicius Curti Cícero](https://vcicero.github.io/)_ _Submitted_ 
@@ -70,4 +63,13 @@ _with [Vinicius Curti Cícero](https://vcicero.github.io/)_ _Submitted_
 This paper develops a structuralist account of how the distribution of income shapes the composition of consumer imports in a developing economy, and through it the income elasticity of import demand that bears on the external constraint on growth in the Kaldor-Thirlwall tradition. When income concentrates in the upper part of the distribution, consumption rotates toward luxuries — goods disproportionately imported — raising the income elasticity of the consumer-import basket. We provide a micro-foundation for this dependence, building on the consumption decisions of regional class structures and the long-standing structuralist hypothesis of the demonstration effect. We test the framework using the China-driven commodity boom in Brazil, whose regional incidence was set by predetermined export structures and concentrated income gains in the upper part of the distribution. More exposed regions raised their share of national consumer imports and, on that larger base, rotated their baskets toward imported luxuries, with the basket-implied elasticity rising where inequality rose most. The response held under both a domestic luxury classification and one anchored to advanced-economy consumption, the latter providing suggestive evidence that the demonstration effect operates in a large developing economy. The two margins compound: the regions that came to weigh more in the national basket also carried the higher elasticity, raising the national consumer-import elasticity over the boom and leaving it above its pre-boom level. The result is a distribution-driven rise in the income elasticity of consumer imports, potentially reducing the long-run growth rate allowed by the balance-of-payments constraint.
 
 </details>
+
+
+## Selected works in progress
+
+Energy transformation and local economic development: Evidence from renewable energy investments in Colombia 
+_with Lenin H. Balza and [José Belmar](https://www.josebelmar.com/)_
+
+Agrarian reform, structural transformation and regional development in post-revolutionary Mexico, 1916–1976
+_with [José Belmar](https://www.josebelmar.com/)_
 

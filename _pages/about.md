@@ -43,7 +43,7 @@ This paper examines the relationship between the middle class and the pattern of
 
 ## Working papers
 
-Economic liberalization, industrial policy and manufacturing performance in Mexico.
+Economic liberalization, industrial policy and manufacturing performance in Mexico
 
 <details class="paper-abstract">
 <summary>Abstract</summary>

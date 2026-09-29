@@ -67,7 +67,7 @@ This paper develops a structuralist account of how the distribution of income sh
 
 ## Selected works in progress
 
-Energy transformation and local economic development: Evidence from renewable energy investments in Colombia 
+The local economic impacts of solar adoption in Colombia: A tale of two pathways 
 _with Lenin H. Balza and [José Belmar](https://www.josebelmar.com/)_
 
 Agrarian reform, structural transformation and regional development in post-revolutionary Mexico, 1916–1976

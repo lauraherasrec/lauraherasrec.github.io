@@ -45,6 +45,8 @@ This paper examines the relationship between the middle class and the pattern of
 
 Economic liberalization, industrial policy and manufacturing performance in Mexico
 
+<a class="paper-btn" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7544600">Working Paper</a>
+
 <details class="paper-abstract">
 <summary>Abstract</summary>
 

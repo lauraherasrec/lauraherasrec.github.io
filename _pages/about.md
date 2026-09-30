@@ -53,7 +53,7 @@ Mexico is often presented as a successful case of liberalization, as the country
 </details>
 
 Inequality, the demonstration effect, and the income elasticity of imports: a Structuralist account of the external constraint
-_with [Vinicius Curti Cícero](https://vcicero.github.io/)_ _Submitted_ 
+_with [Vinicius Curti Cícero](https://vcicero.github.io/)_ _Under review_ 
 
 <a class="paper-btn" href="https://madeusp.com.br/publicacoes/artigos/inequality-the-demonstration-effect-and-the-income-elasticity-of-imports-a-structuralist-account-of-the-external-constraint/">Working Paper</a>
 
